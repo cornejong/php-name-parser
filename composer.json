@@ -1,0 +1,17 @@
+{
+    "name": "southcoast/name-parser",
+    "type": "package",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "SouthCoast\\NameParser\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Corné de Jong",
+            "email": "5366568-cornedejong@users.noreply.gitlab.com"
+        }
+    ],
+    "require": {}
+}
